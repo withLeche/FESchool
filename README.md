@@ -1,1 +1,1 @@
-# FESchool
+# FrontendSchool
